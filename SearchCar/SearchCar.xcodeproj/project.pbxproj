@@ -41,6 +41,7 @@
 		0FA35B02229E565A0040F244 /* ListCarCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0FA35B00229E565A0040F244 /* ListCarCell.xib */; };
 		0FA35B05229E641B0040F244 /* CarModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FA35B04229E641B0040F244 /* CarModel.m */; };
 		35195A7EFA33A6DCFA3D8BA6 /* libPods-SearchCar.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AA36AAC75FF5346F00C3BE60 /* libPods-SearchCar.a */; };
+		3F31875E232E865B0019B491 /* TestBranch.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F31875D232E865B0019B491 /* TestBranch.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -103,6 +104,8 @@
 		0FA35B03229E641B0040F244 /* CarModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CarModel.h; sourceTree = "<group>"; };
 		0FA35B04229E641B0040F244 /* CarModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CarModel.m; sourceTree = "<group>"; };
 		0FD68FF922AE5BC90071446F /* SearchCar.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SearchCar.entitlements; sourceTree = "<group>"; };
+		3F31875C232E865B0019B491 /* TestBranch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestBranch.h; sourceTree = "<group>"; };
+		3F31875D232E865B0019B491 /* TestBranch.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestBranch.m; sourceTree = "<group>"; };
 		AA36AAC75FF5346F00C3BE60 /* libPods-SearchCar.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SearchCar.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7BD84D0A46BAA42BBCC8E97 /* Pods-SearchCar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SearchCar.release.xcconfig"; path = "Pods/Target Support Files/Pods-SearchCar/Pods-SearchCar.release.xcconfig"; sourceTree = "<group>"; };
 		F2D5B0E7E672C0853931A9D2 /* Pods-SearchCar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SearchCar.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SearchCar/Pods-SearchCar.debug.xcconfig"; sourceTree = "<group>"; };
@@ -252,6 +255,8 @@
 				0FD68FF922AE5BC90071446F /* SearchCar.entitlements */,
 				0FA35AE3229E4FCF0040F244 /* AppDelegate.h */,
 				0FA35AE4229E4FCF0040F244 /* AppDelegate.m */,
+				3F31875C232E865B0019B491 /* TestBranch.h */,
+				3F31875D232E865B0019B491 /* TestBranch.m */,
 				0F11D163229FCFBB005ACE17 /* Tool */,
 				0F53F9E1229F7520004A6926 /* Add */,
 				0FA35B06229E8CF00040F244 /* Main */,
@@ -439,6 +444,7 @@
 				0FA35B05229E641B0040F244 /* CarModel.m in Sources */,
 				0F62763B22A0F76300422B07 /* LGAudioPlayer.m in Sources */,
 				0F11D15A229FB08E005ACE17 /* AddressModel.m in Sources */,
+				3F31875E232E865B0019B491 /* TestBranch.m in Sources */,
 				0F53F9DF229F750B004A6926 /* AddViewController.m in Sources */,
 				0FA35AF3229E4FD10040F244 /* main.m in Sources */,
 				0F53F9EE229F7C9B004A6926 /* ImageItem.m in Sources */,
