@@ -11,10 +11,16 @@
 @implementation TestBranch
 
 
+
 - (void)test{
     
     NSLog(@"测试stack");
     
+}
+
+- (void)tttest{
+    
+    NSLog(@"hello");
 }
 
 @end
