@@ -10,4 +10,11 @@
 
 @implementation TestBranch
 
+
+- (void)test{
+    
+    NSLog(@"测试stack");
+    
+}
+
 @end
