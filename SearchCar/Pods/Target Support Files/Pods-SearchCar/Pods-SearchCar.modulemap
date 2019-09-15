@@ -1,0 +1,6 @@
+module Pods_SearchCar [system] {
+  umbrella header "Pods-SearchCar-umbrella.h"
+
+  export *
+  module * { export * }
+}

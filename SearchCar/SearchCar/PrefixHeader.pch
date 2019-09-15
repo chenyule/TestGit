@@ -1,0 +1,32 @@
+//
+//  PrefixHeader.pch
+//  SearchCar
+//
+//  Created by a11 on 2019/5/31.
+//  Copyright © 2019 YuXiang. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <YYKit/YYKit.h>
+#import <Masonry.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveCocoa/RACEXTScope.h>
+#import <MBProgressHUD/MBProgressHUD.h>
+
+#define kWidth     [UIScreen mainScreen].bounds.size.width
+#define kHeight     [UIScreen mainScreen].bounds.size.height
+
+#define MAXRECORDTIME 20
+#define MINRECORDTIME 1
+
+#define IMAGEPNG    @"image"
+#define VIDEO       @"video"
+#define ADRESS      @"adress"
+#define TIMELEN     @"timeLenth"
+#define TIME        @"time"
+
+
+#endif /* PrefixHeader_pch */
