@@ -44,7 +44,7 @@
     NSDate *currentDate = [NSDate date];
     NSTimeInterval currentTimeStamp = [currentDate timeIntervalSince1970];
     
-    NSLog(@"xxxxx");
+    NSLog(@"xxxxx我是分支");
     
     
     if (currentTimeStamp > endTime) {
